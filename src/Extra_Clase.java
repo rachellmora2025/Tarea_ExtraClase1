@@ -29,11 +29,6 @@ public class Extra_Clase {
         System.out.println("Se registro a " + datosCliente.get(0) + " exitosamente.");
         
         System.out.println("Se registro a " + datosCliente + " exitosamente.");
-    
-    
-    
-    
-    
     }//fin de main
 
 }// fin de codigo
