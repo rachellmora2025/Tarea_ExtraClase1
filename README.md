@@ -6,8 +6,6 @@ Alejandro Moran Reyes
 Rachell Mora Reyes
 Justin Espinoza Martinez
 
-
-
 Descripción del programa
 
 Es un programa que nos permite registrar datos básicos y un cliente (nombre, apellido, correo electrónico, teléfono y dirección) que se almacenan en un Arraylist y luego se muestran en pantalla.
@@ -73,8 +71,4 @@ https://github.com/rachellmora2025/Tarea\_ExtraClase1/issues/6 https://github.co
 Pull Request resueltos
 
 https://github.com/rachellmora2025/Tarea\_ExtraClase1/pull/3 https://github.com/rachellmora2025/Tarea\_ExtraClase1/pull/4 https://github.com/rachellmora2025/Tarea\_ExtraClase1/pull/9 https://github.com/rachellmora2025/Tarea\_ExtraClase1/pull/13 
-
-
-
-
 
