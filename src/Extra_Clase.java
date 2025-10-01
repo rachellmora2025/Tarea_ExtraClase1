@@ -28,6 +28,8 @@ public class Extra_Clase {
         }//fin for.
         System.out.println("Se registro a " + datosCliente.get(0) + " exitosamente.");
         
+            //comentario de prueba
+
         System.out.println("Se registro a " + datosCliente + " exitosamente.");
     }//fin de main
 
