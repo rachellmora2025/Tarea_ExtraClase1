@@ -1,5 +1,3 @@
-# Tarea_ExtraClase1 - rama A
-Trabajo Extra Clase proyecto simple del Grupo 1
 # Tarea\_ExtraClase1
 
 Trabajo Extra Clase proyecto simple del Grupo 1
